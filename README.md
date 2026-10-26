@@ -26,7 +26,7 @@ for changes that are difficult to reverse.
 ## Installation
 
 ```bash
-npx skills add B-R-P/building-deterministic-tools
+npx skills add B-R-P/engineering-decision-making
 ```
 
 ## Contents
