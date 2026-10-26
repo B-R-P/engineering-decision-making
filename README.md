@@ -23,6 +23,12 @@ decision quality proportional to the task:
 The result is less over-analysis for routine work and fewer costly mistakes
 for changes that are difficult to reverse.
 
+## Installation
+
+```bash
+npx skills add B-R-P/building-deterministic-tools
+```
+
 ## Contents
 
 - [`skills/engineering-decision-making/SKILL.md`](skills/engineering-decision-making/SKILL.md)
