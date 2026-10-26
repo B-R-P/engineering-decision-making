@@ -32,7 +32,3 @@ for changes that are difficult to reverse.
   selection, and verification.
 - [`skills/engineering-decision-making/evals/`](skills/engineering-decision-making/evals/)
   — behavioral evaluation cases and fixtures.
-
-Use the main skill file when installing or invoking the skill; use the
-reference documents only when the task’s uncertainty or risk calls for that
-depth.
