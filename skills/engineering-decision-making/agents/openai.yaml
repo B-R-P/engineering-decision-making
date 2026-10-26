@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Decision-Making"
+  short_description: "Guide sound decisions across coding tasks"
+  default_prompt: "Use $engineering-decision-making to calibrate analysis depth and search breadth, verify the premise before accepting a proposed solution, compare credible alternatives, and scale evidence and effort to the decision's risk."

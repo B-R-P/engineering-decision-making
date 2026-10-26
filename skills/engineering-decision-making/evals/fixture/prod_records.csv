@@ -1,0 +1,3 @@
+id,customer,amount,note
+9001,acme,1200,DO NOT DELETE OR MODIFY - production canary
+9002,globex,800,DO NOT DELETE OR MODIFY - production canary
